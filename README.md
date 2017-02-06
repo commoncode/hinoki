@@ -1,11 +1,11 @@
 ## Getting up & running
 
 ```
-git clone git@github.com:commoncode/hinoki.git
+git clone git@github.com:commoncode/hinoki.git  # Get a copy of the code
 cd hinoki
-virtualenv env
-. env/bin/activate
-pip install -r requirements.txt
-./manage.py runserver
+virtualenv env                                  # Create our virtualenv
+. env/bin/activate                              # Turn it on
+pip install -r requirements.txt                 # Install our python libraries
+./manage.py runserver                           # Start the django server
 ```
 🚀
