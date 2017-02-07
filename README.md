@@ -1,6 +1,6 @@
 ## Getting up & running
 
-```
+```bash
 git clone git@github.com:commoncode/hinoki.git  # Get a copy of the code
 cd hinoki
 virtualenv env                                  # Create our virtualenv
