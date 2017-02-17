@@ -1,5 +1,7 @@
 ## Getting up & running
 
+See also [Installing required development tools](https://github.com/commoncode/hinoki/wiki#installing-required-development-tools)
+
 ```bash
 git clone git@github.com:commoncode/hinoki.git  # Get a copy of the code
 cd hinoki
