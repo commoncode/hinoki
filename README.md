@@ -6,6 +6,7 @@ cd hinoki
 virtualenv env                                  # Create our virtualenv
 . env/bin/activate                              # Turn it on
 pip install -r requirements.txt                 # Install our python libraries
+./manage.py migrate                             # Prepare the database
 ./manage.py runserver                           # Start the django server
 ```
 🚀
